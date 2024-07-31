@@ -1,0 +1,14 @@
+- Quais tecnologias utilizaram?
+Python, com as bibliotecas:
+	*Pandas
+	*Numpy
+	*matplotlib
+	*tkinter
+
+- Qual o problema analisado?
+	*Análise de Vendas
+- Como você desenvolveu?
+	*Separei dois gráficos do Matplotlib e reuni eles em um executável do Tkinter
+
+- Qual pergunta você respondeu?
+Itens que fazem sentido vender com mais frequência, itens esses que são os eletrônicos, visto que na análise é possível identificar a disparidade que esse nicho tem, para com os demais
